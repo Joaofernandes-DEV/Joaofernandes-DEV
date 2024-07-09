@@ -16,7 +16,7 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 - **UI/UX:** Figma, Adobe XD
 
 ## Meu portifolio (MANUTENÇÂO ⚙)
-- [Portifolio](link_para_o_projeto1)
+- [Portifolio](https://joaofernandes-dev.github.io/)
 
 ## Aprendizado Contínuo
 Estou sempre explorando novas tecnologias e práticas de desenvolvimento para melhorar minhas habilidades.
