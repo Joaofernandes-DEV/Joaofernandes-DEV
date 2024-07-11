@@ -9,7 +9,7 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=microsoft-outlook&logoColor=white)](mailto:joaovitorf.work@outlook.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561253610064&locale=pt_BR)
 [![Facebook](https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet)
-
+[![Instagram](https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet)
 ## Habilidades
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
@@ -17,7 +17,7 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 - **UI/UX:** Figma, Adobe XD
 
 ## Meu portifolio (MANUTENÇÂO ⚙)
-- [Portifolio]()
+- [Portifolio](#)
 
 ## Aprendizado Contínuo
 Estou sempre explorando novas tecnologias e práticas de desenvolvimento para melhorar minhas habilidades.
