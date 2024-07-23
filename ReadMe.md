@@ -11,7 +11,7 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=instagram&logoColor=white)](https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet)
 
 ## Habilidades
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Python
 - **Banco de Dados:** MongoDB, MySQL, SQLserver
 
