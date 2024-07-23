@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm João Fernandes. Welcome to my GitHub profile!
 
 ## Sobre Mim
-Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor apaixonado por criar soluções inovadoras. Atualmente, estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web e UI/UX design.
+Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor apaixonado por criar soluções inovadoras. Atualmente, estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web 
 
 ## Contato e Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3)
