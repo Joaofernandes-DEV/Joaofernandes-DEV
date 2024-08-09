@@ -13,7 +13,7 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 ## Habilidades
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Python
-- **Banco de Dados:** MongoDB, MySQL, SQLserver
+- **Banco de Dados:** MySQL, SQLserver
 
 ## Meu portifolio (MANUTENÇÂO ⚙)
 - [Portifolio](#)
