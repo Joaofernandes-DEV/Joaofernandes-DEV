@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm João Fernandes. Welcome to my GitHub profile!
+# 👋 Hello World, I'm João Vitor Fernandes. Welcome to my GitHub profile!
 
 ## Sobre Mim
 Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor apaixonado por criar soluções inovadoras. Atualmente, estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web 
