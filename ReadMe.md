@@ -5,7 +5,6 @@ Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor
 
 ## Contato e Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@joaofernandes.dev)
 [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=microsoft-outlook&logoColor=white)](mailto:joaovitorf.work@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=instagram&logoColor=white)](https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet)
 
