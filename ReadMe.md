@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">⚙My favorite Tools and Technologies🌐</h1>
-<p>Here are some of the technologies I use most often, focusing on web development and Java programming.</p>
+<p>Here are some of the technologies I use most often, focusing on web development, Java programming, and other key tools.</p>
 
 <table align="center">
   <tr>
@@ -26,7 +26,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65">
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -40,6 +40,24 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65">
       <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65">
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65">
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65">
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65">
+      <br>Python
     </td>
   </tr>
 </table>
