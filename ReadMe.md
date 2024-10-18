@@ -1,27 +1,60 @@
-# 👋 Hello World, I'm João Vitor Fernandes. Welcome to my GitHub profile!
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25">Hi there, Welcome to my Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25"></h1>
 
-## Sobre Mim
-Olá! Sou João Fernandes, estudante de Ciência da Computação e desenvolvedor apaixonado por criar soluções inovadoras. Atualmente, estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web 
+<img src="background_presentation.gif" alt="Gif com a apresentação principal">
 
-## Contato e Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3)
-[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=microsoft-outlook&logoColor=white)](mailto:joaovitorf.work@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=instagram&logoColor=white)](https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet)
+<h1 align="center">📱Contacts</h1>
 
-## Habilidades
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java, Python
-- **Banco de Dados:** MySQL, SQLserver
+<p align="center">
+<a href="https://www.linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn João Vitor">
+</a>
+<a href="https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="mailto:joaovitorf.work@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook João Vitor">
+</a>
+</p>
 
-## Meu portifolio (MANUTENÇÂO ⚙)
-- [Portifolio](#)
+<h1 align="center">⚙My favorite Tools and Technologies🌐</h1>
+<p>Here are some of the technologies I use most often, focusing on web development and Java programming.</p>
 
-## Aprendizado Contínuo
-Estou sempre explorando novas tecnologias e práticas de desenvolvimento para melhorar minhas habilidades.
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65">
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65">
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65">
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65">
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65">
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
-## Contribuições
-Contribuições e feedback são bem-vindos! Sinta-se à vontade para explorar meus repositórios e abrir issues ou pull requests.
+<h1 align="center">📊GitHub Stats</h1>
 
-## Obrigado por Visitar!
-Fique à vontade para entrar em contato comigo através das redes sociais listadas acima. Vamos conversar e colaborar em projetos interessantes!
+<details>
+  <summary>💻<b>GitHub Profile Stats</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joaofernandes-DEV&theme=dark&show_icons=true" alt="GitHub Stats">
+  </div>
+</details>
 
+<details>
+  <summary>🗒️<b>Activities</b></summary>
+  <p>Check out my recent projects and activities on GitHub!</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofernandes-DEV&layout=compact&theme=dark" alt="Most Used Languages">
+</details>
