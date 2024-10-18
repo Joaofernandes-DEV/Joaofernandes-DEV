@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn João Vitor">
 </a>
-<a href="https://www.instagram.com/jotadev__/?utm_source=ig_web_button_share_sheet">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+
 <a href="mailto:joaovitorf.work@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook João Vitor">
 </a>
