@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">⚙My favorite Tools and Technologies🌐</h1>
-<p>Here are some of the technologies I use most often, focusing on web development, Java programming, and other key tools.</p>
+<p align="center">Here are some of the technologies I use most often, focusing on web development, Java programming, and other key tools.</p>
 
 <table align="center">
   <tr>
