@@ -62,7 +62,7 @@
 
 <details>
   <summary>💻<b>GitHub Profile Stats</b></summary>
-  <div align="center">
+  <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Joaofernandes-DEV&theme=dark&show_icons=true" alt="GitHub Stats">
   </div>
 </details>
