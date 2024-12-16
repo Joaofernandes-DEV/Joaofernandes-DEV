@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - output  
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Joaofernandes-DEV 
+          outputs: dist/snake.svg
+      - name: Push Animation to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/snake.svg
