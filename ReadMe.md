@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn João Vitor">
 </a>
 
+<a href="https://www.instagram.com/jotadev__?igsh=MTA3YXEyZXJnZjhnYg==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram João Vitor">
+</a>
+
 <a href="mailto:joaovitorf.work@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook João Vitor">
 </a>
