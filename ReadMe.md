@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">⚙My favorite Tools and Technologies🌐</h1>
-<p align="center">Here are some of the technologies I use most often, focusing on web development, Java programming, and other key tools.</p>
+<p align="center">Here are some of the technologies I use most often, focusing on web development, data analysis, and software engineering.</p>
 
 <table align="center">
   <tr>
@@ -58,6 +58,20 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65">
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65">
+      <br>Azure
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="65" height="65">
+      <br>SaaS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65">
+      <br>Bootstrap
     </td>
   </tr>
 </table>
