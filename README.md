@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,sass,mysql,databricks" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" alt="Tech Stack">
   </a>
 </p>
 
@@ -40,10 +40,7 @@
 
 ### 📱 Contacts
 <p align="left">
-  <a href="https://www.linkedin.com/in/joão-vitor-teixeira-fernandes-bb88012b3">
+  <a href="https://www.linkedin.com/in/joaovitortf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn João Vitor">
-  </a>
-  <a href="mailto:joaovitorf.work@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook João Vitor">
   </a>
 </p>
