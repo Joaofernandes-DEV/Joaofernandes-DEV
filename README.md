@@ -4,7 +4,11 @@
 </h2>
 
 
-🎓 **Studying Computer Science at** [UNIP](https://inscricoes.unip.br/inscricao?gad_source=1&gclid=Cj0KCQjwhYS_BhD2ARIsAJTMMQbfEH2XZeB9AsRGeeM6bGZZBtJ9FstCkCiRidZNY7_nwlYrnLwKW7saAhBAEALw_wcB&gclsrc=aw.ds)
+🎓 **Studying Computer Science at** [UNIP](https://inscricoes.unip.br/inscricao?gad_source=1&gclid=Cj0KCQjwhYS_BhD2ARIsAJTMMQbfEH2XZeB9AsRGeeM6bGZZBtJ9FstCkCiRidZNY7_nwlYrnLwKW7saAhBAEALw_wcB)
+
+---
+
+🚀 **Check out my personal portfolio:** [portifoliojoaofernandes.netlify.app](https://portifoliojoaofernandes.netlify.app/)
 
 ---
 
@@ -16,8 +20,6 @@
     <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" alt="Tech Stack">
   </a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -35,12 +37,3 @@
   <summary>⚡ <b>Contributions</b></summary>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaofernandes-DEV&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </details>
-
----
-
-### 📱 Contacts
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaovitortf/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
