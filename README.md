@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,postgresql" alt="Tech Stack">
   </a>
 </p>
 
