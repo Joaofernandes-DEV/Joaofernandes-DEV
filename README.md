@@ -8,7 +8,7 @@
 
 ---
 
-🚀 **Check out my personal portfolio:** [portifoliojoaofernandes.netlify.app](https://portifoliojoaofernandes.netlify.app/)
+🚀 **Check out my personal portfolio:** [portifoliojoaofernandes.netlify.app](https://portfoliojoaofernandes.netlify.app)
 
 ---
 
